@@ -1,0 +1,46 @@
+header {
+    background-color: antiquewhite;
+    height: 75px;
+
+}
+
+header .left .logo {
+    font-weight: bold;
+}
+   
+   
+   
+   
+   nav {
+       background-color: blue;
+       text-align: right;
+       height: 50px;
+   }
+
+   nav ul {
+    vertical-align: middle;
+
+   }
+
+   nav li {
+       display: inline;
+       vertical-align: middle;
+       margin: 0 5px;
+   }
+
+   nav ul li a {
+       color: white;
+       text-decoration: none;
+       display: inline-block;
+       height: 50px;
+       line-height: 0 10px;
+       padding: 0 10px;
+       border: 1px solid white;
+   }
+
+   footer {
+    background-color: aqua;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+   }
